@@ -1,6 +1,9 @@
+import Navbar from "./navbar";
 const app = () => {
   return (
-    <div>Hey Abhishek - Let's build linkedin navbar.</div>
+    <>
+        <Navbar />
+    </>
   )
 }
 
